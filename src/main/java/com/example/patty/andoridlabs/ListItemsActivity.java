@@ -40,7 +40,7 @@ public class ListItemsActivity extends Activity {
            @Override
            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                CharSequence textOn = "Switch is On";
-               CharSequence textOff = "Switch is off";
+               CharSequence textOff = "Switch is Off";
                int duration = Toast.LENGTH_SHORT;
                if (isChecked) {
                    Toast toastOn = Toast.makeText(getApplicationContext(), textOn, duration);

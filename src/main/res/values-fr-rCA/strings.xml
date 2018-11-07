@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="hello_message">Bonjour!</string>
+    <string name="button">Je suis un button</string>
+    <string name="login">Identifiant</string>
+    <string name="password">mot de passe</string>
+    <string name="radioBtn">bouton de radio</string>
+    <string name="checkBx">case a coucher</string>
+    <string name="switch1">Qu\'est-ce que cela fait?</string>
+    <string name="startChat">commencer le chat</string>
+    <string name="sendBtn">envoyer</string>
+    <string name="app_name">Labs</string>
+    <string name="DefaultEmail"></string>
+    <string name="dialogMsg"></string>
+    <string name="dialogTitle"></string>
+    <string name="ok">bien</string>
+    <string name="cancel">annuler</string>
+    <string name="text">entrer un message</string>
+    <string name="loginName">nom de connexion</string>
+    <string name="weatherForcast">prévision météo</string>
+</resources>

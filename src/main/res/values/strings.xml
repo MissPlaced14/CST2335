@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="hello_message">Hello world!</string>
+    <string name="button">I\'m a button</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="radioBtn">Radio Button</string>
+    <string name="checkBx">Check Box</string>
+    <string name="switch1">What does this do?</string>
+    <string name="DefaultEmail"></string>
+    <string name="dialogMsg"></string>
+    <string name="dialogTitle"></string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="startChat">Start Chat</string>
+    <string name="sendBtn">Send</string>
+    <string name="entrMsg">Enter Message</string>
+    <string name="loginName">Login Name</string>
+    <string name="weatherForcast">Weather Forcast</string>
+
+</resources>

@@ -17,7 +17,7 @@
         android:id="@+id/loginInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="login name"
+        android:hint="@string/loginName"
         android:inputType="textEmailAddress" />
 
     <TextView
@@ -30,7 +30,7 @@
         android:id="@+id/passwordInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="password"
+        android:hint="@string/password"
         android:inputType="textPassword" />
 
 
@@ -38,14 +38,15 @@
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Login" />
+        android:text="@string/login" />
 
     <ImageView
-
+android:contentDescription="hi"
         android:id="@+id/flagImageView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-      <!--  android:scr="@drawable/flag" -->
+        android:layout_height="wrap_content"
+        android:src="@drawable/flag" />
+
 
 </LinearLayout>
 

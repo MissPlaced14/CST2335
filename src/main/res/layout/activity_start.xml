@@ -17,10 +17,21 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button"
         tools:layout_editor_absoluteX="135dp"
         tools:layout_editor_absoluteY="293dp" />
+    <Button
+        android:id="@+id/startChatBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/startChat"
+        />
+    <Button
+        android:id="@+id/weatherBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/weatherForcast"/>
 
 </LinearLayout>
